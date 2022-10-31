@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS_RIZA</string>
+    <string-array name="arr_jalur">
+        <item>Jalur Tanpa Pendaftaran</item>
+        <item>Tes Tertulis</item>
+        <item>Wawancara</item>
+        <item>Rekomendasi</item>
+    </string-array>
+</resources>
